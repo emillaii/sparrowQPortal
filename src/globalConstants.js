@@ -1,0 +1,1 @@
+export const elasticSearchBaseUrl = 'http://104.199.174.240:8000/sfrlog/_doc/_search/'
